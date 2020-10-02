@@ -13,7 +13,7 @@
       "modestmaps": "3.3.5",
       "wax": "7.0.0dev11a",
       "bean": "0.4.11-1",
-      "mustache": "0.4.0",
+      "mustache": "4.0.1",
       "markers": "0.14.5",
       "easey": "2.0.6"
   },
