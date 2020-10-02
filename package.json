@@ -18,7 +18,7 @@
       "easey": "2.0.6"
   },
   "devDependencies": {
-      "uglify-js": "1.3.x"
+      "uglify-js": "3.11.x"
   },
   "optionalDependencies": {},
   "engines": {
